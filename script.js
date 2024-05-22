@@ -1,3 +1,5 @@
+alert("Hbd buat kamu, maaf ya telat")
+alert("Panjang umur dan sehat selalu :)")
 let canvas = document.getElementById("canvas")
 
 canvas.width = window.innerWidth
